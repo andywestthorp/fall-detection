@@ -2,7 +2,7 @@
 
 A localised, privacy-first fall detection system designed to run on a Raspbery Pi or a basic Linux PC (N100). It monitors ONVIF/RTSP camera streams and sends instant photo alerts to a Telegram group when a fall is detected using Computer Vision.
 
-![System Screenshot](fall_detected.jpg)
+![System Screenshot](FallDetected.jpg)
 
 ## Features
 
