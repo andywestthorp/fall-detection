@@ -20,7 +20,7 @@ A localised, privacy-first fall detection system designed to run on a Raspbery P
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/fall-detection.git
+git clone https://github.com/andywestthorp/fall-detection.git
 cd fall-detection
 
 ```
