@@ -5,10 +5,10 @@ from ultralytics import YOLO
 
 # --- CONFIGURATION ---
 # Replace these with your actual details
-TOKEN = "8656875173:AAGSVhxYhrW_o3MeErhkuT1qIQR8JQIUjAQ"
-CHAT_ID = "-1003835694579"
+TOKEN = "token"
+CHAT_ID = "chatid"
 # Use your working RTSP URL here
-CAMERA_URL = "rtsp://Lokiguard:mousehunter123@192.168.1.149:554/stream2" 
+CAMERA_URL = "rtsp://user:password@192.168.x.y:554/stream2" 
 
 # Detection Tweaks
 CONFIDENCE_THRESHOLD = 0.25  # Lower = more sensitive to "weird" body shapes
