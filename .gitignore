@@ -1,0 +1,15 @@
+# Python junk
+__pycache__/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# AI Models (They are too big for GitHub)
+*.pt
+*.onnx
+*_openvino_model/
+
+# Private images
+*.jpg
+*.png
