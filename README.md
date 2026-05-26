@@ -46,7 +46,7 @@ pip install ultralytics opencv-python requests
 
 ## Configuration
 
-Open `fall3.py` and update the following variables:
+Open `fall.py` and update the following variables:
 
 | Variable | Description |
 | --- | --- |
